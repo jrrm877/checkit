@@ -38,7 +38,7 @@ Drive Folder Checklist adds a checklist panel to Google Drive folder pages. Each
 
 For support, questions, or bug reports, contact:
 
-`YOUR-COVER-EMAIL@EXAMPLE.COM`
+`checkit2026@proton.me`
 
 ## Privacy Policy Page Copy
 
@@ -76,7 +76,7 @@ The extension runs on `https://drive.google.com/drive/*` because it adds checkli
 
 For privacy or support questions, contact:
 
-`YOUR-COVER-EMAIL@EXAMPLE.COM`
+`checkit2026@proton.me`
 
 ## Cover Email Options
 
